@@ -1,1 +1,1 @@
-#Here is the intro to 'loop'conditions
+#Here is the intro to 'loop' conditions
